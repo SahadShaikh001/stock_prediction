@@ -1,0 +1,10 @@
+Django>=4.2
+djangorestframework
+python-decouple
+gunicorn
+whitenoise
+yfinance
+tensorflow
+matplotlib
+python-telegram-bot==22.1
+stripe
